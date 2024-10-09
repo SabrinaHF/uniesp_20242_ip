@@ -16,14 +16,14 @@ print('\n')
 
 for i in range (1,11):
     
-    print(f'{sub+i}-{numero} = {(sub+i)-numero}')
+    print(f'{sub+numero}-{numero} = {(sub+numero)-numero}')
     sub+=1
     
 print('\n')
 
 for i in range (1,11):
     
-    print(f'{div}/{numero} = {i/numero}')
+    print(f'{div*numero}/{numero} = {(div*numero)/numero:.0f}')
     div+=1
     
 print('\n')
