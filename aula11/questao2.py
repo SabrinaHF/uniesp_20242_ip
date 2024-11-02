@@ -26,7 +26,7 @@ for linha in matriz_a:
     print(linha)
 
 print('\n')
-print(f'Resultada da soma de todos os valores da Matriz A: {soma}')
+print(f'Resultado da soma de todos os valores da Matriz A: {soma}')
 
 
 print('\n')          
